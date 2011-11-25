@@ -1,0 +1,4 @@
+Very rough and dirty script that will crawl a directory tree (starting from a root) to gather information from any text files located within.
+
+Information returned :
+file Size, character count, word count, alphanumeric character count, line count
